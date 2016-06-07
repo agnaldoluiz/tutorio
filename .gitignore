@@ -4,4 +4,4 @@ app.db
 search.db
 flask
 *.mo
-public/assets/**
+.DS_Store
